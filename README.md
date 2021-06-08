@@ -1,8 +1,6 @@
 # telco-churn-challenge
 Analisi e addestramento di un modello per predire se un cliente di un operatore telefonico è propenso a lasciare la società oppure no :telephone_receiver:
 
----
-
 * [Telco-Customer-Churn.partial.csv]()<br>
 É il dataset (.csv) di partenza per l'apprendimento supervisionato.<br>
 
